@@ -12,7 +12,7 @@ Setup project environment
 
 Install dependencies
 
-### `yarn start:mockServer`
+### `yarn start:mock`
 
 Start mock server
 
